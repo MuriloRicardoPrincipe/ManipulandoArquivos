@@ -1,0 +1,14 @@
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.AssemblyInfo.cs
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\bin\Debug\net8.0\ManipulacoesArquivos.exe
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\bin\Debug\net8.0\ManipulacoesArquivos.deps.json
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\bin\Debug\net8.0\ManipulacoesArquivos.runtimeconfig.json
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\bin\Debug\net8.0\ManipulacoesArquivos.dll
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\bin\Debug\net8.0\ManipulacoesArquivos.pdb
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.dll
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\refint\ManipulacoesArquivos.dll
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.pdb
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ManipulacoesArquivos.genruntimeconfig.cache
+C:\Users\muril\source\repos\ManipulacoesArquivos\ManipulacoesArquivos\obj\Debug\net8.0\ref\ManipulacoesArquivos.dll
